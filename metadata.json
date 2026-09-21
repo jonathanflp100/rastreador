@@ -1,0 +1,6 @@
+{
+  "name": "Rotta",
+  "description": "Rotta - Plataforma White-Label de Rastreamento Veicular GPS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
